@@ -1,0 +1,10 @@
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\BugsBunny\BugsBunny\bin\Debug\BugsBunny.exe.config
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\BugsBunny\BugsBunny\bin\Debug\BugsBunny.exe
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\BugsBunny\BugsBunny\bin\Debug\BugsBunny.pdb
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\BugsBunny\BugsBunny\obj\Debug\BugsBunny.csprojResolveAssemblyReference.cache
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\BugsBunny\BugsBunny\obj\Debug\BugsBunny.Form1.resources
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\BugsBunny\BugsBunny\obj\Debug\BugsBunny.Properties.Resources.resources
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\BugsBunny\BugsBunny\obj\Debug\BugsBunny.csproj.GenerateResource.Cache
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\BugsBunny\BugsBunny\obj\Debug\BugsBunny.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\BugsBunny\BugsBunny\obj\Debug\BugsBunny.exe
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\BugsBunny\BugsBunny\obj\Debug\BugsBunny.pdb
